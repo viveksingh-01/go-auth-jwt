@@ -1,2 +1,3 @@
 # go-auth-jwt
-Implementation of authentication and authorization using JWT using Golang
+
+Authentication and authorization using JWT in Go (Gin-Gonic) and MongoDB
